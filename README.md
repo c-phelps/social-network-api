@@ -1,4 +1,5 @@
 # Social  Media API           [![License:](https://img.shields.io/badge/License:-MIT-red)](http://choosealicense.com/licenses/mit/)
+Video walkthrough link: https://streamable.com/2iu6xb
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation-instructions)
